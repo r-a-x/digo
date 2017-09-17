@@ -1,2 +1,2 @@
 # digo
-Example to show dependency injection in go
+In this Example the facebook go dependecy injection is shown.
